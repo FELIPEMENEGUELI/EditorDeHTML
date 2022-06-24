@@ -66,8 +66,8 @@ namespace EditHTML
         {
             switch (option)
             {
-                case 1: Console.WriteLine("Editor"); break;
-                case 2: Console.WriteLine("Visualizar"); break;
+                case 1: Edit.Show(); break;
+                case 2: Console.WriteLine("View"); break;
                 case 3:
                     {
                         Console.Clear();

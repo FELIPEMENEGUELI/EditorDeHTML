@@ -1,0 +1,15 @@
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\bin\Debug\net6.0\EditHTML.exe
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\bin\Debug\net6.0\EditHTML.deps.json
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\bin\Debug\net6.0\EditHTML.runtimeconfig.json
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\bin\Debug\net6.0\EditHTML.dll
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\bin\Debug\net6.0\EditHTML.pdb
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.csproj.AssemblyReference.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.AssemblyInfoInputs.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.AssemblyInfo.cs
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.csproj.CoreCompileInputs.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.dll
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\refint\EditHTML.dll
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.pdb
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\EditHTML.genruntimeconfig.cache
+C:\Users\FelipeFerreiraMenegu\Desktop\FelipeHD\baltar.io\EditHTML\obj\Debug\net6.0\ref\EditHTML.dll
